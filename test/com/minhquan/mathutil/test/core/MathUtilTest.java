@@ -39,7 +39,7 @@ public class MathUtilTest {
             org.junit.Assert.assertEquals(2, MathUtil.getFactorial(2));
  org.junit.Assert.assertEquals(6, MathUtil.getFactorial(3));
  org.junit.Assert.assertEquals(24, MathUtil.getFactorial(4));
-  org.junit.Assert.assertEquals(120, MathUtil.getFactorial(5));
+  org.junit.Assert.assertEquals(120, MathUtil.getFactorial(6));
            
           
            
